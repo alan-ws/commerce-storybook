@@ -1,0 +1,7 @@
+{
+  "name": "storybook-commerce",
+  "private": true,
+  "workspaces": [
+    "site/*"
+  ]
+}
